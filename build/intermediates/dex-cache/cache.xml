@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Git\WifiDirectDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Git\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1612722b20bde1c859e5ac367abaea4e073c5b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Git\WifiDirectDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5afaf442614e8ea07dbab8939dc30a2f77b4659">
+        <dex dex="C:\Git\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_57b5084a730bea4003a5bb5b1e999216a00dac99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Git\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Mar 28 13:37:48 CEST 2017
+base.0=C\:\\Git\\WifiDirectDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1612722b20bde1c859e5ac367abaea4e073c5b63
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Git\\WifiDirectDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_57b5084a730bea4003a5bb5b1e999216a00dac99\\classes.dex
+base.1=C\:\\Git\\WifiDirectDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_57b5084a730bea4003a5bb5b1e999216a00dac99
+file.0=C\:\\Git\\WifiDirectDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1612722b20bde1c859e5ac367abaea4e073c5b63\\classes.dex
